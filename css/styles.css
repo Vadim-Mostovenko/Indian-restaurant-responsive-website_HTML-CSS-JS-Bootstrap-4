@@ -53,20 +53,11 @@ body {
   bottom: 0px;
   z-index: 1; }
 
-#reservation_form .modal-header {
+.modal-header {
   background-color: #512DA8;
   color: floralwhite; }
-  #reservation_form .modal-header button {
+  .modal-header button {
     color: floralwhite; }
 
-#reservation_form .modal-body {
-  background-color: #D1C4E9; }
-
-#loginModal .modal-header {
-  background-color: #512DA8;
-  color: floralwhite; }
-  #loginModal .modal-header button {
-    color: floralwhite; }
-
-#loginModal .modal-body {
+.modal-body {
   background-color: #D1C4E9; }
